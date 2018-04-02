@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>Oracle Public Cloud Demo</title>
+<title>Cloud Demo by Tommy</title>
 
 </head>
 <body>
@@ -50,7 +50,7 @@
   <div class="container serviceContainer" style="margin-top: 150px;">
     <div class="overviewLayout">
       <div>
-              <br>SpringBoot  application demo by tommy 20180402 .  Current server time: <%= new java.util.Date() %> <br>
+              <br>Wow, cool! SpringBoot  application demo by tommy 20180402 .  Current server time: <%= new java.util.Date() %> <br>
               <br>
               <p>
                 <span style="color: #333; text-decoration: none">Build faster and release often with Wercker's Docker-Native 
